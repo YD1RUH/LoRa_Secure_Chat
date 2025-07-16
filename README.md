@@ -14,6 +14,11 @@ an Implementation security for LoRa Communication (Chat app) by Adding Diffie-He
 - clik `FLASH ESP`
 
 ## How to use
-- access serial
-- for initiaion, input `callsign` `p` `g`, separated by `space`. then hit enter
-- enjoy secure chatting over LoRa
+- access serial.
+- for initiaion, input `callsign` `p` `g`, separated by `space`. then hit enter.
+- enjoy secure chatting over LoRa.
+
+## Feature
+- reset Diffie-Hellman process if there's no response.
+- on the air change bandwidth. just type `BW 125` for 125kHz, `BW 250` for 250kHz, and `BW 500` for 500kHz.
+- maximum messages 1024 Character.
