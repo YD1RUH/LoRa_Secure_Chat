@@ -22,3 +22,10 @@ an Implementation security for LoRa Communication (Chat app) by Adding Diffie-He
 - reset Diffie-Hellman process if there's no response.
 - on the air change bandwidth. just type `BW 125` for 125kHz, `BW 250` for 250kHz, and `BW 500` for 500kHz.
 - maximum messages 1024 Character.
+
+<div align="center">
+  <a href="https://youtu.be/ow_Cv7KYM3o">
+    <img src="https://img.youtube.com/vi/ow_Cv7KYM3o/0.jpg" alt="Watch on YouTube" width="480">
+  </a>
+</div>
+
