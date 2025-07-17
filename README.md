@@ -6,7 +6,6 @@ An Implementation security for LoRa Communication (Chat app) by Adding Diffie-He
 
 ## Choose your style
 - USB Serial: [download here](https://github.com/YD1RUH/LoRa_Secure_Chat/raw/refs/heads/main/secure_chat_TTGO_LoRa32-OLED.bin)
-
 - Bluetooth: [download here](https://github.com/YD1RUH/LoRa_Secure_Chat/raw/refs/heads/main/secure_chat_TTGO_LoRa32-OLED_BT.bin)
 
 ## How to install
