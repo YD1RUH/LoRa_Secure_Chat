@@ -1,5 +1,5 @@
 # LoRa_Secure_Chat
-an Implementation security for LoRa Communication (Chat app) by Adding Diffie-Hellman key exchanges and AES encryption.
+An Implementation security for LoRa Communication (Chat app) by Adding Diffie-Hellman key exchanges and AES encryption.
 
 <p align="center">
   <img src="https://github.com/YD1RUH/LoRa_Secure_Chat/blob/main/LoRa.jpg?raw=true" alt="LoRa Chat System" width="60%">
@@ -17,6 +17,15 @@ an Implementation security for LoRa Communication (Chat app) by Adding Diffie-He
 - access serial.
 - for initiaion, input `callsign` `p` `g`, separated by `space`. then hit enter.
 - enjoy secure chatting over LoRa.
+
+## Star History
+<a href="https://www.star-history.com/#YD1RUH/LoRa_Secure_Chat&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=YD1RUH/LoRa_Secure_Chat&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=YD1RUH/LoRa_Secure_Chat&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=YD1RUH/LoRa_Secure_Chat&type=Date" />
+ </picture>
+</a>
 
 ## Feature
 - reset Diffie-Hellman process if there's no response.
