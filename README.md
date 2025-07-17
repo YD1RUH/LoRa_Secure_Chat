@@ -1,6 +1,5 @@
 # LoRa_Secure_Chat
 An Implementation security for LoRa Communication (Chat app) by Adding Diffie-Hellman key exchanges and AES encryption.
-
 <p>
   <img src="https://github.com/YD1RUH/LoRa_Secure_Chat/blob/main/LoRa.jpg?raw=true" alt="LoRa Chat System" width="60%">
 </p>
@@ -34,6 +33,7 @@ An Implementation security for LoRa Communication (Chat app) by Adding Diffie-He
 - on the air change bandwidth. just type `BW 125` for 125kHz, `BW 250` for 250kHz, and `BW 500` for 500kHz.
 - maximum messages 1024 Character.
 
+## Showcase
 <div>
   <a href="https://youtu.be/ow_Cv7KYM3o">
     <img src="https://img.youtube.com/vi/ow_Cv7KYM3o/0.jpg" alt="Watch on YouTube" width="480" width="80%">
