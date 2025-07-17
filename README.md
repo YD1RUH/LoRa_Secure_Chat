@@ -2,7 +2,7 @@
 An Implementation security for LoRa Communication (Chat app) by Adding Diffie-Hellman key exchanges and AES encryption.
 
 <p align="center">
-  <img src="https://github.com/YD1RUH/LoRa_Secure_Chat/blob/main/LoRa.jpg?raw=true" alt="LoRa Chat System" width="60%">
+  <img src="https://github.com/YD1RUH/LoRa_Secure_Chat/blob/main/LoRa.jpg?raw=true" alt="LoRa Chat System" width="80%">
 </p>
 
 ## How to install
